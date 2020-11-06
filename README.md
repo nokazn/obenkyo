@@ -1,9 +1,4 @@
-# react-minimum-starter
-
-## Todos
-
-- [ ] Add test
-- [ ] Styled components
+# obenkyo
 
 ## LICENSE
 
